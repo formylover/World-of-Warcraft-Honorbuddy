@@ -1,6 +1,13 @@
 # World-of-Warcraft-Honorbuddy
 World-of-Warcraft-Honorbuddy
 
+###本仓库，用于更新HB相关的脚本，插件等，如果有人可能帮助更新添加，会非常的感谢。  WOW HB 交流群：60067386
+
+###可follow我，随时查看更新及下载。
+
+
+
+
 **（1）兄弟HB 目前可用功能如下： **
 [考古模示] 
 [任务模示] 
